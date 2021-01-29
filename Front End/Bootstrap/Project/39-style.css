@@ -1,0 +1,88 @@
+.top{
+    margin-top: 56px ;
+}
+
+.NISHANTH{
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.NISHANTH img{
+    margin-bottom: 10px;
+}
+
+.NISHANTH h1{
+    margin-bottom: 15px;
+}
+
+.NISHANTH p{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.parallax{
+    height: 400px;
+    text-align: center;
+    padding: 150px;
+    color: aquamarine;
+}
+.content{
+    text-align: center;
+    padding: 50px;
+
+}
+
+.content h1{
+    margin-top: 50  px;
+}
+
+
+footer{
+    height: 70px;
+    padding: 20px 50px;
+    background-color: black;
+    text-decoration: none;
+
+}
+footer a{
+    color: red;
+}
+
+.right{
+    float: right;
+    color: aliceblue;
+    padding: 5px ;
+}
+
+@media(max-width: 768px){
+    .parallax {
+        padding : 60px;
+     }
+   
+    .parallax h1 {
+
+        font-size: 20px;
+        margin-top: 25%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+body{
+    font-family: 'Courier Prime', monospace;
+    background: #2d2d2d;
+}
+
+.sidebar li{
+    padding: 20px;
+    margin-right: 50px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bg{
+    background: #191919;
+    
+}
+
+.bg h1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.box-pink{
+    height: 200px;
+    border-radius: 20px;
+    background : linear-gradient(#8a2387,#e94057,#f27121);
+    text-align: center;
+    padding: 80px;
+}
+.box-pink h2{
+    color:white;
+    font-family: 'Bangers', cursive ;
+}
+.box-blue{
+    height: 200px;
+    border-radius: 20px;
+    background: linear-gradient(#0575E6,#8a2387,#021B79);
+text-align: center;
+padding: 80px;
+}
+
+.box-blue h2{
+  color: white;
+  font-family: 'Bangers', cursive;
+}
+
+.box-orange{
+    height: 200px;
+    border-radius: 20px;
+    background: linear-gradient(#fe8c00,#f83600,red);
+    text-align: center;
+    padding: 80px;
+}
+.box-orange h2{
+    color: wheat;
+    font-family: 'Bangers', cursive;
+}
+
+
+
+
+
+
+

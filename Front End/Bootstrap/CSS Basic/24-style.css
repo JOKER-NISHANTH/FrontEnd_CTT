@@ -1,0 +1,51 @@
+/*   Property
+
+Link , hover , active, visited */
+
+
+/* a{
+    font: size 50px;
+
+}
+
+a:link{
+    color: black;
+    
+}
+
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color:grey;
+}
+
+a:visited{
+    color:green;
+} */
+
+
+
+a{
+    font-size: 25px;
+    display: inline;
+    padding: 20px 50px;
+    background-color:black;
+    color:red;
+    text-decoration: none;
+    border :solid red;
+    border-radius: 20px;
+}
+
+a:hover{
+    background-color: greenyellow;
+}
+
+a:active{
+    background-color: green;
+
+}
+
+

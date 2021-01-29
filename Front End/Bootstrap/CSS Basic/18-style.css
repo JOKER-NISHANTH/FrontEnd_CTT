@@ -1,0 +1,26 @@
+
+body{
+    background: url("../Images/image.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+div{
+    background-color: blanchedalmond;
+}
+
+
+h1{
+
+    
+    color: blue;
+    text-align: center;
+    border: 3px solid red;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 250px;
+
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 45px;
+
+}

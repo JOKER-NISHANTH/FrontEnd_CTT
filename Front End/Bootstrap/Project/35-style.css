@@ -1,0 +1,45 @@
+body{
+    background: url("https://cdn.pixabay.com/photo/2018/05/14/15/53/cyber-security-3400555_960_720.jpg") no-repeat fixed ;
+    background-size: cover;
+    background-position: center;
+}
+
+.black{
+    height:400px ;
+    background: black;
+    margin-top: 10%;
+    border-radius: 25px;
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+    font-family: 'Playball', cursive;
+    opacity: 0.8;
+}
+
+
+
+/* Media Quires 
+
+    Moblie 425px  above 250px
+    Tablet 768px
+    Normal Lap 1024px
+
+*/
+
+@media (min-width:310px){
+    .black{
+        background-color:red;
+    }
+}
+
+@media (min-width:768px){
+    .black{
+        background-color: pink;
+    }
+}
+
+@media (min-width:1024px){
+        .black{
+            background-color:blue;
+        }
+    }

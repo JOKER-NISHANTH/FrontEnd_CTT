@@ -1,0 +1,30 @@
+body{
+    background: url("../Images/image.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+div{
+    background-color: coral;
+}
+
+i{
+
+    color: red;
+    font-size: 105px;
+
+}
+
+h1{
+    color: green;
+    text-align: center;
+    width: 200px;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 250px;
+
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 45px;
+
+    
+}

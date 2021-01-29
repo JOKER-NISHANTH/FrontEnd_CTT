@@ -1,0 +1,10 @@
+div{
+    height: 400px;
+    background: linear-gradient(to top, red,blue);
+}
+
+.circle{
+    height: 800px;
+    background : radial-gradient(white,grey);
+}
+

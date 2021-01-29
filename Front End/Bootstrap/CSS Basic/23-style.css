@@ -1,0 +1,45 @@
+video{
+    position: fixed;
+    top : 50%;
+    left: 50%;
+    margin-top: -340px;
+    margin-left: -750px;
+    z-index: 1;
+}
+
+div{
+
+    position: relative;
+    z-index: 2;
+    margin: 0% auto;
+    
+    max-width: 720px;
+    text-align: center;
+    color:whitesmoke;
+
+    border: 5px solid red;
+    border-radius: 20px;
+    margin-top: 16%;
+    padding: 20px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+a{
+    display: inline-block;
+    padding: 20px;
+
+    border: 2px solid red;
+
+    text-decoration: none;
+    color: green;
+}

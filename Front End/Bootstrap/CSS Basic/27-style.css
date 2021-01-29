@@ -1,0 +1,23 @@
+div{
+   height: 500px;
+   
+  
+}
+
+.white{
+    background-color: white;
+}
+
+.One h1{
+    margin: 0 auto;
+    margin-top: 200px;
+    text-align: center;
+    width: 300px;
+    color: red;
+    border: 3px solid red;
+    border-radius: 20px;
+    padding: 20px;
+
+
+
+}

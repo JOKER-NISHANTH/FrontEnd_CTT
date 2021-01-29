@@ -1,0 +1,55 @@
+/* 1 st set a background 
+    Here repeat again the same pic , now we avoid that using no-repeat
+    
+    2nd fit it centre
+       Bottom and right and lift side white space , using zoom (Fixed) --> top yo buttom
+
+*/
+
+/* 
+
+Responce pc reason [ cover ] --> website full zoom
+fixed -- > Pic ah move pinnathu
+
+no-repeat --> Avoid the images display again aand again
+center --> center la pages ah set painna 
+
+*/
+
+
+/* text center */
+body{
+    background:url("../Images/technology-background--digital-hand--simple-background-with-co.jpg " ) no-repeat center fixed;
+    /* total Zoom methiods  */
+    background-size: cover;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    width:500px;
+    padding: 20px;
+    border: 3px solid red;
+    /* margin-left: 250px; */
+    /* 0% Top and Down --> auto rigth and left */
+    margin: 0 auto;
+    /* margin-top: 350px; */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
